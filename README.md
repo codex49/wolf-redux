@@ -1,1 +1,1 @@
-Example redux
+Implementation for react and redux
