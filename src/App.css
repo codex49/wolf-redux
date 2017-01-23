@@ -1,0 +1,24 @@
+.App {
+  display: flex;
+}
+.Canvas {
+  background: #eee;
+  flex-grow: 1;
+}
+.background {
+  align-items: center;
+  background: #000;
+  display: flex;
+  justify-content: center;
+}
+.foreground {
+  height: 50%;
+  width: 50%;
+}
+.Sidebar {
+  width: 20%;
+  text-align: center;
+}
+.active {
+  background: blue;
+}
